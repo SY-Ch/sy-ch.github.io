@@ -1,3 +1,7 @@
-- 校级一等奖学金, 2022.  
-
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- **Most Market Prospective Award**, Digital China Summit, AI Track Innovation Competition, 2024 
+- **Second Place**, 1st USM 3D CVPR Workshop, 2024
+- **Outstanding Graduation Thesis**, Jimei University, 2024. 
+- **Bronze Award**, Ascend AI Innovation Contest, Application Track Regional Competition, 2023
+- **Outstanding Project Recognition**, Fujian Provincial AI Computing Centre, 2024
+- **Alumni Scholarship**, School of Computer, Jimei University, 2023
+- **Professional Scholarship**, Jimei University,  2022-2023

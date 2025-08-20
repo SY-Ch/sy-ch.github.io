@@ -4,8 +4,7 @@
 <code>chensy@ieee.org</code>  
 
 #### Education  
-**Jimei University**, B.E. in Intelligent Science and Technology The College of Computer and Engineering
-• GPA 81.5/100 
+**Jimei University**, B.E. in Intelligent Science and Technology The College of Computer and Engineering( GPA 81.5/100 )
 
 
 #### Research Interests  
