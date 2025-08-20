@@ -1,4 +1,4 @@
-[![SY-Ch](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/SY-Ch)
+[![SY-Ch](https://img.shields.io/badge/SY-Ch-github-blue?logo=github)](https://github.com/SY-Ch)
 
 #### Email  
 <code>chensy@ieee.org</code>  
