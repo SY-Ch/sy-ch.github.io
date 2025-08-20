@@ -1,20 +1,12 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
-
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>chensy@ieee.org</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Jimei University**, B.E. in Intelligent Science and Technology The College of Computer and Engineering
+• GPA 81.5/100 
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+His research focuses on advancing semantic segmentation through depth-aware multimodal learning, with particular emphasis on domain generalization and robustness. He is committed to improving the stability and generalization of segmentation in diverse traffic and urban scenes.
