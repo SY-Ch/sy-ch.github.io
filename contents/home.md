@@ -4,8 +4,9 @@
 <code>chensy@ieee.org</code>  
 
 #### Education  
-**Jimei University**, B.E. in Intelligent Science and Technology The College of Computer and Engineering( GPA 81.5/100 )
+**University of Glasgow** — Ph.D. Candidate, 2025–Present
 
+**Jimei University** — B.E. in Intelligent Science and Technology, GPA: 81.5 / 100, 2024
 
 #### Research Interests  
-His research focuses on advancing semantic segmentation through depth-aware multimodal learning, with particular emphasis on domain generalization and robustness. He is committed to improving the stability and generalization of segmentation in diverse traffic and urban scenes.
+I focus on advancing semantic segmentation through depth-aware multimodal learning, with particular emphasis on domain generalization and robustness. I am committed to improving the stability and generalization of segmentation in diverse traffic and urban scenes.
