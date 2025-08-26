@@ -19,7 +19,7 @@
   <img src="./static/assets/img/IROS2025.png" alt="image" width="260px" style="box-shadow: 4px 4px 8px #888; margin-right:15px;">
   <div>
     <h4 style="font-size:20px; line-height:1.3; margin:8px 0;">
-      Depth Matters: Exploring Deep Interactions of RGB-D for Semantic Segmentation in        Traffic Scenes
+      Depth Matters: Exploring Deep Interactions of RGB-D for Semantic Segmentation in Traffic Scenes
     </h4>
     <p style="font-size:15px; line-height:1.2; margin:8px 0;">
       <strong>Siyu Chen*</strong>, Ting Han*, Changshe Zhang, Weiquan Liu, Jinhe Su, Zongyue Wang, Guorong Cai
@@ -51,13 +51,13 @@
   <img src="./static/assets/img/APT2023.png" alt="image" width="260px" style="box-shadow: 4px 4px 8px #888; margin-right:15px;">
   <div>
     <h4 style="font-size:20px; line-height:1.3; margin:8px 0;">
-      AutoFibroNet: A deep learning and multi- photon microscopy-derived automated network for liver fibrosis quantification in MAFLD
+      AutoFibroNet: A deep learning and multi-photon microscopy-derived automated network for liver fibrosis quantification in MAFLD
     </h4>
     <p style="font-size:15px; line-height:1.2; margin:8px 0;">
       Huiling Zhan*, <strong>Siyu Chen*</strong>, Feng Gao*, Guangxing Wang, Sui-Dan Chen, Gangqin Xi, Hai-Yang Yuan, Xiaolu Li, Wen-Yue Liu, Christopher D. Byrne, Giovanni Targher, Miao-Yang Chen, Yong-Feng Yang, Jun Chen, Zhiwen Fan, Xitai Sun, Guorong Cai, Ming-Hua Zheng, Shuangmu Zhuo
     </p>
     <p style="font-size:15px; line-height:1.2; margin:20px 0;">
-      <em><strong>Alimentary Pharmacology & Therapeutics, 2023</strong></em>
+      <em><strong>Alimentary Pharmacology & Therapeutics, 2023, Selected as the Featured Cover</strong></em>
     </p>
   </div>
 </div>
