@@ -13,7 +13,20 @@
   </div>
 </div>
 
-
+<div style="display: flex; align-items: center;">
+  <img src="./static/assets/img/WACV2026.png" alt="image" width="260px" style="box-shadow: 4px 4px 8px #888; margin-right:15px;">
+  <div>
+    <h4 style="font-size:20px; line-height:1.3; margin:8px 0;">
+      LiDAR-DHMT: LiDAR-Adaptive Dual Hierarchical Mask Transformer for Robust Freespace Detection and Semantic Segmentation
+    </h4>
+    <p style="font-size:15px; line-height:1.2; margin:8px 0;">
+      <strong>Siyu Chen</strong>，Ting Han, Changshe Zhang, Xin Luo, Huan Chen, Meiliu Wu, Guorong Cai, Jinhe Su 
+    </p>
+    <p style="font-size:15px; line-height:1.2; margin:20px 0;">
+      <em><strong>Winter Conference on Applications of Computer Vision (WACV), 2026</strong></em>
+    </p>
+  </div>
+</div>
 
 <div style="display: flex; align-items: center;">
   <img src="./static/assets/img/IROS2025.png" alt="image" width="260px" style="box-shadow: 4px 4px 8px #888; margin-right:15px;">
