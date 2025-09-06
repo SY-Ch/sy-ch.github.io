@@ -20,7 +20,7 @@
       LiDAR-DHMT: LiDAR-Adaptive Dual Hierarchical Mask Transformer for Robust Freespace Detection and Semantic Segmentation
     </h4>
     <p style="font-size:15px; line-height:1.2; margin:8px 0;">
-      <strong>Siyu Chen*</strong>, Ting Han*, Changshe Zhang, Xin Luo, Huan Chen, Meiliu Wu, Guorong Cai, Jinhe Su 
+      <strong>Siyu Chen</strong>, Ting Han, Changshe Zhang, Xin Luo, Huan Chen, Meiliu Wu, Guorong Cai, Jinhe Su 
     </p>
     <p style="font-size:15px; line-height:1.2; margin:20px 0;">
       <em><strong>Winter Conference on Applications of Computer Vision (WACV), 2026</strong></em>
