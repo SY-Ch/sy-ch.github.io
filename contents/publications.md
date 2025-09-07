@@ -38,7 +38,7 @@
       <strong>Siyu Chen*</strong>, Ting Han*, Changshe Zhang, Weiquan Liu, Jinhe Su, Zongyue Wang, Guorong Cai
     </p>
     <p style="font-size:15px; line-height:1.2; margin:20px 0;">
-      <em><strong>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025</strong></em>
+      <em><strong>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025, Oral</strong></em>
     </p>
   </div>
 </div>
