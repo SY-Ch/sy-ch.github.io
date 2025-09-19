@@ -1,4 +1,19 @@
 <div style="display: flex; align-items: center;">
+  <img src="./static/assets/img/NeurIPS25.png" alt="image" width="260px" style="box-shadow: 4px 4px 8px #888; margin-right:15px;">
+  <div>
+    <h4 style="font-size:20px; line-height:1.3; margin:8px 0;">
+      Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation
+    </h4>
+    <p style="font-size:15px; line-height:1.2; margin:8px 0;">
+      <strong>Siyu Chen*</strong>, Ting Han*, Chengzheng Fu, Changshe Zhang, Chaolei Wang, Jinhe Su, Guorong Cai, Meiliu Wu
+    </p>
+    <p style="font-size:15px; line-height:1.2; margin:20px 0;">
+      <em><strong>The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025</strong></em>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
   <img src="./static/assets/img/ICCV2025.png" alt="image" width="260px" style="box-shadow: 4px 4px 8px #888; margin-right:15px;">
   <div>
     <h4 style="font-size:20px; line-height:1.3; margin:8px 0;">
