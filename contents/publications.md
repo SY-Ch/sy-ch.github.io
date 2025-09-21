@@ -8,7 +8,7 @@
       <strong>Siyu Chen*</strong>, Ting Han*, Chengzheng Fu, Changshe Zhang, Chaolei Wang, Jinhe Su, Guorong Cai, Meiliu Wu
     </p>
     <p style="font-size:15px; line-height:1.2; margin:20px 0;">
-      <em><strong>The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025</strong></em>
+      <em><strong>Conference on Neural Information Processing Systems (NeurIPS), 2025</strong></em>
     </p>
   </div>
 </div>
