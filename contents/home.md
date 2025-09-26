@@ -1,7 +1,7 @@
 [![SY-Ch](https://img.shields.io/badge/chensy-github-blue?logo=github)](https://github.com/SY-Ch)
 
 #### Email  
-<code>chensy@ieee.org</code>  
+<code>chensy@ieee.org</code>  | <code>[Github](https://github.com/SY-Ch)</code>
 
 #### Education  
 **University of Glasgow** — Ph.D. Candidate, 2025–Present
