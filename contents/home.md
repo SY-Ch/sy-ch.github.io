@@ -4,7 +4,6 @@
 <code>chensy@ieee.org</code>  | <code>[Github](https://github.com/SY-Ch)</code>
 
 #### Education  
-**University of Glasgow** — Ph.D. Candidate, 2025–Present
 
 **Jimei University** — B.E. in Intelligent Science and Technology, GPA: 81.5 / 100, 2024
 
