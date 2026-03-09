@@ -1,7 +1,7 @@
 [![SY-Ch](https://img.shields.io/badge/chensy-github-blue?logo=github)](https://github.com/SY-Ch)
 
 #### Email  
-<code>chensy@ieee.org</code>  | <code>[Github](https://github.com/SY-Ch)</code>
+<code>chensy@ieee.org</code>  | <code>[Github](https://github.com/SY-Ch)</code> ｜ <code>[Google Scholar](https://scholar.google.com/citations?user=2I78ofsAAAAJ)</code>
 
 #### Education  
 
